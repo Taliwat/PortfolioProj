@@ -6,7 +6,7 @@
     background-color: lightgreen;
 }
 
-#title {
+.title {
     width: 100%;
     min-height: 50px;
     background-color: lightgray;
@@ -15,10 +15,11 @@
 
 };
 
-#navigation {
+.navigation {
     width: 100%;
     min-height: 30px;
     background-color: lightgray;
     margin-bottom: 10px;
-    
+    text-align: center;
+    line-height: 30px;
 };
