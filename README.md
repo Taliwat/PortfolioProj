@@ -3,23 +3,20 @@
 
 ## 📘 Description
 
-Looking to get a loan? Look no further. We offer a wide range of products from $50 personal loans, all the way up to JUMBO Mortgages!  With our app the user will be able to login, submit an application and obtain a Pre-Qualification Letter to provide to the Realtor or Dealership if needed.
+This app contains contact information and recurring working project(s) for Ryan Mennemeier.  It can be used to contact him or to see what he has (or hasn't) been up to lately. 
 
 ## 📑 Table of Contents 
 
-- [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Credits](#credits)
 
 
 ## Usage
 
 1. Go to the homepage
-2. Log In or Sign up as a new User
-3. From there can view information about the Loan Officers on their About Me pages.
-4. Once logged in users can submit a new Loan Application for review.
-5.  Once submitted it will go to the assigned Loan Officer for review and Pre-Qualification.
+2. View information about the page's owner and click on links in the navbar to go where you want to see the information.
 
 
+- [Credits](#credits)
+https://github.com/Taliwat/PortfolioProj.git - GitHub URL
 
